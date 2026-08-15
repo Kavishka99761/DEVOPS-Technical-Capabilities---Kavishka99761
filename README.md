@@ -1,4 +1,4 @@
-# DEVOPS-Technical-Capabilities---Kavishka99761
+# DEVOPS-Capabilities---Kavishka99761
 
 The [DevOps Research and Assessment (DORA)](https://dora.dev) team has identified and validated a set of capabilities that drive higher software delivery and organizational performance. These articles describe how to implement, improve, and measure these capabilities.
 
